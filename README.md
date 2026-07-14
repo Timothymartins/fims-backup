@@ -1,3 +1,4 @@
+
 # Integrity Monitor
 
 A local file-integrity monitor with a web-style dashboard, packaged as a Windows desktop app.
@@ -91,3 +92,7 @@ Right now `IntegrityMonitor.exe` is a single portable executable, so users can j
 it, no install needed. If you'd like a "real" installer experience (Start Menu shortcut,
 uninstaller, Program Files placement), the next step is wrapping it with
 Inno Setup (jrsoftware.org/isinfo.php). Ask and this can be added.
+
+# fims-backup
+for my project presentation
+>>>>>>> 1fcddc3ea83d54c0231bcd52302791d17e1737b2
